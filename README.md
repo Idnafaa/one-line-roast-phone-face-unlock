@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Idnafaa/one-line-roast-phone-face-unlock/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 [![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Idnafaa/one-line-roast-phone-face-unlock/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-One original line (115 characters) roasting the gadget I use every day — my phone's face unlock, which recognises my cat, my pillow and a photo of me, but never me before coffee.
+My entry for make.fun's "One-Line Roast: The Gadget You Use Every Day": one original line, 105 characters, roasting my phone's face unlock — it recognises my cat, my pillow and a photo of me, but never me before coffee.
 
 ## Run it
 
@@ -12,7 +12,7 @@ One original line (115 characters) roasting the gadget I use every day — my ph
 python3 main.py
 ```
 
-It writes the roast to `/output/entry.txt`.
+The program writes the roast to `/output/entry.txt`.
 
 ---
 
